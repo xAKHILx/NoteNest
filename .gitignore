@@ -1,0 +1,12 @@
+# Node modules
+**/node_modules
+# Logs
+**/logs
+*.log
+# Env files
+**/.env
+**/.env.local
+# Build output
+**/.next
+**/dist
+**/android/app/build
