@@ -10,3 +10,4 @@ A full-stack note-taking application built using:
 
 ## Structure
 
+note-nest/ ├── web-app/ # Next.js + MUI frontend ├── expo-app/ # Expo Android app with WebView and Firebase
