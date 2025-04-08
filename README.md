@@ -1,0 +1,12 @@
+# NoteNest
+
+A full-stack note-taking application built using:
+
+- **Next.js + MUI (Material Design 3)** for the web
+- **Expo (React Native)** for Android
+- **Firebase Authentication** with Google Sign-In
+- **WebView Integration** to load web app inside mobile app
+- **Push Notifications** using native Firebase Cloud Messaging (FCM)
+
+## Structure
+
