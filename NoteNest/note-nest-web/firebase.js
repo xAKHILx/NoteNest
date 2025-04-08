@@ -7,7 +7,7 @@ const firebaseConfig = {
   projectId: "note-nest-7e454",
   storageBucket: "note-nest-7e454.firebasestorage.app",
   messagingSenderId: "911516772027",
-  appId: "1:911516772027:web:a722bb1b50943614b56b9e",
+  appId: "1:911516772027:web:a722bb1b50943614b56b9e"
 };
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
